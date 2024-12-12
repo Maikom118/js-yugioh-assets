@@ -7,3 +7,5 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
+# Creditos 
+Este projeto foi desenvolvido em desafio na Digital Innovation One  para praticar JavaScript, HTML e CSS.
